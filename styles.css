@@ -133,3 +133,53 @@ body {
 .coco {
     display: flex;
 }
+
+@media only screen and (min-width: 768px) {
+
+    #p1 {
+        font-size: 25px;
+    }
+
+    #p2 {
+        font-size: 18px;
+    }
+
+    .michelle-pic img{
+        height: 80px;
+        width: 80px;
+    }
+
+    .michelle-img {
+        height: 100px;
+    }
+    .coco {
+        padding-left: 15px;
+    }
+    .share{
+        padding-right: 50px;
+    }
+
+    .share button {
+        height: 50px;
+        width: 50px;
+    }
+
+    #p3 {
+        font-size: 20px;
+    }
+
+    #p4 {
+        font-size: 15px;
+    }
+    .share-icon p {
+        font-size: 25px;
+    }
+    .share-icon img {
+        width: 35px;
+        height: 35px;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+
+}
