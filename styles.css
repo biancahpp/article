@@ -12,7 +12,6 @@ body {
     margin-left: 7%;
     margin-right: 7%;
     min-height: 400px;
-    /* background-color: aqua; */
     
 }
 
@@ -22,11 +21,6 @@ body {
     background-color: white;
     box-shadow: 2px 2px 21px -1px hsl(212, 23%, 69%);
 }
-
-/* .wrapper-2 {
-    border: 2px solid red;
-    padding: 10px;
-} */
 
 .text {
     width: 100%;
@@ -79,8 +73,6 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    /* background-color: hsl(217, 19%, 35%); */
-
 }
 
 .michelle-pic img{
